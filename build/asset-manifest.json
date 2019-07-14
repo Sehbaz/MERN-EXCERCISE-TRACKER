@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MERN-EXCERCISE-TRACKER/static/css/main.2cce8147.chunk.css",
+    "main.js": "/MERN-EXCERCISE-TRACKER/static/js/main.4d96af6b.chunk.js",
+    "main.js.map": "/MERN-EXCERCISE-TRACKER/static/js/main.4d96af6b.chunk.js.map",
+    "runtime~main.js": "/MERN-EXCERCISE-TRACKER/static/js/runtime~main.731ef3e1.js",
+    "runtime~main.js.map": "/MERN-EXCERCISE-TRACKER/static/js/runtime~main.731ef3e1.js.map",
+    "static/css/2.118dfa7b.chunk.css": "/MERN-EXCERCISE-TRACKER/static/css/2.118dfa7b.chunk.css",
+    "static/js/2.5762c430.chunk.js": "/MERN-EXCERCISE-TRACKER/static/js/2.5762c430.chunk.js",
+    "static/js/2.5762c430.chunk.js.map": "/MERN-EXCERCISE-TRACKER/static/js/2.5762c430.chunk.js.map",
+    "index.html": "/MERN-EXCERCISE-TRACKER/index.html",
+    "precache-manifest.2b8ef74129b188271c4b967105a5ccd0.js": "/MERN-EXCERCISE-TRACKER/precache-manifest.2b8ef74129b188271c4b967105a5ccd0.js",
+    "service-worker.js": "/MERN-EXCERCISE-TRACKER/service-worker.js",
+    "static/css/2.118dfa7b.chunk.css.map": "/MERN-EXCERCISE-TRACKER/static/css/2.118dfa7b.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/MERN-EXCERCISE-TRACKER/static/css/main.2cce8147.chunk.css.map"
+  }
+}

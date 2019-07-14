@@ -63,10 +63,9 @@ class CreateExcercise extends Component {
       date: this.state.date
     };
     axios
-      .post("http://localhost:5000/exercise/add")
+      .post("http://localhost:5000/exercise/add", exercise)
       .then(res => console.log("Exercise Added"));
     console.log(exercise);
-    window.location = "/";
   }
   render() {
     return (
